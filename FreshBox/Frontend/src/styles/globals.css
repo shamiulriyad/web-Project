@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html,
+  body {
+    @apply bg-dibi-500 text-gray-800 antialiased;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply text-dibi-900;
+  }
+}
+
+@layer components {
+  /* Reusable card white surface */
+  .card {
+    @apply bg-dibi-500 rounded-xl shadow-soft;
+  }
+
+  /* Primary CTA */
+  .btn-primary {
+    @apply inline-block bg-dibi-500 hover:bg-dibi-600 text-white px-6 py-3 rounded-xl transition-colors duration-200;
+  }
+
+  /* Secondary / ghost */
+  .btn-secondary {
+    @apply inline-block border border-dibi-400 text-dibi-700 hover:bg-dibi-50 px-6 py-3 rounded-xl transition-colors duration-200;
+  }
+}

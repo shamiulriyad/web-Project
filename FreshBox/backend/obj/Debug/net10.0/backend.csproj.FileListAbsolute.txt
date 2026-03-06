@@ -1,0 +1,9 @@
+E:\Web Project\web-Project\FreshBox\backend\obj\Debug\net10.0\backend.csproj.AssemblyReference.cache
+E:\Web Project\web-Project\FreshBox\backend\obj\Debug\net10.0\rpswa.dswa.cache.json
+E:\Web Project\web-Project\FreshBox\backend\obj\Debug\net10.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+E:\Web Project\web-Project\FreshBox\backend\obj\Debug\net10.0\backend.AssemblyInfoInputs.cache
+E:\Web Project\web-Project\FreshBox\backend\obj\Debug\net10.0\backend.AssemblyInfo.cs
+E:\Web Project\web-Project\FreshBox\backend\obj\Debug\net10.0\backend.csproj.CoreCompileInputs.cache
+E:\Web Project\web-Project\FreshBox\backend\obj\Debug\net10.0\backend.MvcApplicationPartsAssemblyInfo.cs
+E:\Web Project\web-Project\FreshBox\backend\obj\Debug\net10.0\backend.MvcApplicationPartsAssemblyInfo.cache
+E:\Web Project\web-Project\FreshBox\backend\obj\Debug\net10.0\backend.sourcelink.json
